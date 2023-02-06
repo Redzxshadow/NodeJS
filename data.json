@@ -1,0 +1,68 @@
+{
+    "Entrees":[
+        {
+            "id": 1,
+            "nom": "Croquettes de poisson chat",
+            "prix": "12€"
+        },
+        {
+            "id": 2,
+            "nom": "Filets de pimp",
+            "prix": "8€"
+        },
+        {
+            "id": 3,
+            "nom": "Soufflé braisé",
+            "prix": "3€"
+        }
+    ],
+
+    "Plats": [
+        {
+            "id": 4,
+            "nom": "Salade composée",
+            "prix": "17€"
+        },
+        {
+            "id": 5,
+            "nom": "Agneau déconfiné",
+            "prix": "23€"
+        },
+        {
+            "id": 6,
+            "nom": "Entrecôte dégraissée",
+            "prix": "27€"
+        },
+        {
+            "id": 7,
+            "nom": "Pelardon desséché",
+            "prix": "5€"
+        }
+    ],
+
+    "Desserts": [
+        {
+            "id": 8,
+            "nom": "Copeaux de safran vanillés",
+            "prix": "9€"
+        },
+        {
+            "id": 9,
+            "nom": "Café mouillette",
+            "prix": "1€"
+        }
+    ],
+
+    "Boissons": [
+        {
+            "id": 10,
+            "nom": "Coca Cola aux glaçons",
+            "prix": "3€"
+        },
+        {
+            "id": 11,
+            "nom": "Smoothie champignons/radis",
+            "prix": "8€"
+        }
+    ]
+}
